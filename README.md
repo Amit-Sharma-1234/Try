@@ -1,3 +1,3 @@
 # Try
 First Git repository
-Author -Amit Sharma
+Author -Amit Sir
